@@ -83,14 +83,3 @@ play-predictor/
    ```
    Prediction: Play
    ```
-
-## 📜 License
-
-MIT License
-
----
-
-Made with ❤️ using Flask + Scikit-Learn
-```
-
----
