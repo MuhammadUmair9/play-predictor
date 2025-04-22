@@ -1,6 +1,6 @@
 ---
 
-```markdown
+
 # 🎮 Play Predictor
 
 A simple Flask web application that uses a machine learning model to predict whether to **Play** or **Not Play** based on weather conditions like **Day** and **Temperature**.
