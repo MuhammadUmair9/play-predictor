@@ -51,7 +51,7 @@ pip install flask pandas scikit-learn joblib
 
 3. **Run the app**
 ```bash
-python app.py
+Flask_ML.py
 ```
 
 4. **Open in browser**
